@@ -141,7 +141,7 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        width: 40rem;
+        width: 50rem;
         font-size: 1.4rem;
     }
 
@@ -171,6 +171,7 @@ body {
     }
 
     .rodape {
+        width: 50rem;
         font-size: 1rem;
     }
 }
